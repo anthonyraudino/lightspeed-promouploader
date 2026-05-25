@@ -1,0 +1,229 @@
+{
+  "name": "Bonus Club June $10",
+  "description": "",
+  "start_time": "2026-06-01T00:00:00",
+  "end_time": null,
+  "status": "archived",
+  "condition": {
+    "type": "product_set",
+    "quantity": 1,
+    "include": [],
+    "exclude": []
+  },
+  "action": {
+    "type": "basic_fixed_discount",
+    "value": 10
+  },
+  "channels": [
+    "Register"
+  ],
+  "outlet_ids": [],
+  "customer_group_ids": [],
+  "loyalty_multiplier": 0,
+  "combinable_with_coupon": false,
+  "show_potential": true,
+  "use_promo_code": true,
+  "add_promo_code": [
+    {
+      "code": "TEST-DJDEF4P3",
+      "limit": 1
+    },
+    {
+      "code": "TEST-R67S8UNK",
+      "limit": 1
+    },
+    {
+      "code": "TEST-JTJP4AB4",
+      "limit": 1
+    },
+    {
+      "code": "TEST-X26JXPJJ",
+      "limit": 1
+    },
+    {
+      "code": "TEST-XXTW29FV",
+      "limit": 1
+    },
+    {
+      "code": "TEST-N44PCWXP",
+      "limit": 1
+    },
+    {
+      "code": "TEST-4WKPRW7X",
+      "limit": 1
+    },
+    {
+      "code": "TEST-7AG77N8A",
+      "limit": 1
+    },
+    {
+      "code": "TEST-XUHWSYNW",
+      "limit": 1
+    },
+    {
+      "code": "TEST-BZQCUC46",
+      "limit": 1
+    },
+    {
+      "code": "TEST-XEKHHZ6T",
+      "limit": 1
+    },
+    {
+      "code": "TEST-K7JJA85C",
+      "limit": 1
+    },
+    {
+      "code": "TEST-WA7GCLUE",
+      "limit": 1
+    },
+    {
+      "code": "TEST-SAQ7SSH3",
+      "limit": 1
+    },
+    {
+      "code": "TEST-TXH2NT4Q",
+      "limit": 1
+    },
+    {
+      "code": "TEST-4ES3GSHT",
+      "limit": 1
+    },
+    {
+      "code": "TEST-4Y3WA7Y9",
+      "limit": 1
+    },
+    {
+      "code": "TEST-NBT6R773",
+      "limit": 1
+    },
+    {
+      "code": "TEST-3P4QDR9S",
+      "limit": 1
+    },
+    {
+      "code": "TEST-G43JW98Z",
+      "limit": 1
+    },
+    {
+      "code": "TEST-6Q6RXM44",
+      "limit": 1
+    },
+    {
+      "code": "TEST-U7UJY5NW",
+      "limit": 1
+    },
+    {
+      "code": "TEST-HPG8CW4L",
+      "limit": 1
+    },
+    {
+      "code": "TEST-G6BVR9XW",
+      "limit": 1
+    },
+    {
+      "code": "TEST-VJGBV8FW",
+      "limit": 1
+    },
+    {
+      "code": "TEST-5JY5MSVW",
+      "limit": 1
+    },
+    {
+      "code": "TEST-EHHUX59K",
+      "limit": 1
+    },
+    {
+      "code": "TEST-6CPHR5S6",
+      "limit": 1
+    },
+    {
+      "code": "TEST-JP3DY2AN",
+      "limit": 1
+    },
+    {
+      "code": "TEST-QBJAJPH2",
+      "limit": 1
+    },
+    {
+      "code": "TEST-X6LU7CBW",
+      "limit": 1
+    },
+    {
+      "code": "TEST-UU4F9LHZ",
+      "limit": 1
+    },
+    {
+      "code": "TEST-86HUWUZ2",
+      "limit": 1
+    },
+    {
+      "code": "TEST-YU5ZQNZH",
+      "limit": 1
+    },
+    {
+      "code": "TEST-P3YA9FJS",
+      "limit": 1
+    },
+    {
+      "code": "TEST-PGZTKUS7",
+      "limit": 1
+    },
+    {
+      "code": "TEST-YAKBLYFQ",
+      "limit": 1
+    },
+    {
+      "code": "TEST-6UBQVUQL",
+      "limit": 1
+    },
+    {
+      "code": "TEST-RBG8Z8BP",
+      "limit": 1
+    },
+    {
+      "code": "TEST-G3GWW9SB",
+      "limit": 1
+    },
+    {
+      "code": "TEST-8J68S9BP",
+      "limit": 1
+    },
+    {
+      "code": "TEST-EXXPN5MH",
+      "limit": 1
+    },
+    {
+      "code": "TEST-H238FKUZ",
+      "limit": 1
+    },
+    {
+      "code": "TEST-2K4V7DEX",
+      "limit": 1
+    },
+    {
+      "code": "TEST-S7ZECK3X",
+      "limit": 1
+    },
+    {
+      "code": "TEST-PQMK75J3",
+      "limit": 1
+    },
+    {
+      "code": "TEST-ACU4QJDP",
+      "limit": 1
+    },
+    {
+      "code": "TEST-RM8KQGTU",
+      "limit": 1
+    },
+    {
+      "code": "TEST-AYL8QE56",
+      "limit": 1
+    },
+    {
+      "code": "TEST-N3V9HEYG",
+      "limit": 1
+    }
+  ],
+  "set_promo_code": true
+}

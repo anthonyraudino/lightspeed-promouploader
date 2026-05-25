@@ -1,0 +1,30 @@
+{
+  "name": "lightspeed-promo-uploader",
+  "version": "1.0.0",
+  "description": "Generate and upload promo codes to Lightspeed X-Series promotions",
+  "main": "index.js",
+  "bin": {
+    "promo-uploader": "index.js"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "auth": "node index.js authorize",
+    "refresh": "node index.js refresh",
+    "generate": "node index.js generate",
+    "upload": "node index.js upload",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lightspeed",
+    "promo",
+    "codes",
+    "promotion",
+    "retail",
+    "x-series"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}

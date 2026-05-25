@@ -1,0 +1,34 @@
+{
+  "data": {
+    "id": "2058775883434487808",
+    "name": "Bonus Club June $10",
+    "description": "",
+    "start_time": "2026-06-01T00:00:00",
+    "end_time": null,
+    "condition": {
+      "type": "product_set",
+      "quantity": 1,
+      "include": [],
+      "exclude": []
+    },
+    "action": {
+      "type": "basic_fixed_discount",
+      "value": 10
+    },
+    "loyalty_multiplier": 0,
+    "outlet_ids": [],
+    "channels": [
+      "Register"
+    ],
+    "customer_group_ids": [],
+    "status": "active",
+    "use_promo_code": false,
+    "promo_code_summary": {
+      "total_promo_code": 0,
+      "redeemed_amount": 0
+    },
+    "show_potential": true,
+    "combinable_with_coupon": false,
+    "online_channel_ids": []
+  }
+}
