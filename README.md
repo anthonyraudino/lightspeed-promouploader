@@ -16,7 +16,7 @@ The tool supports OAuth setup, token refresh, CSV generation, CSV upload, dry ru
 Clone the project and install dependencies:
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/anthonyraudino/lightspeed-promouploader.git
 cd lightspeed-promo-uploader
 npm install
 ```
