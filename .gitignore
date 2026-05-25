@@ -134,3 +134,10 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+.DS_Store
+
+# Application specific
+.env
+.env.local
+csv/*.csv
+.DS_Store
